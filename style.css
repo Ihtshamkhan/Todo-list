@@ -1,0 +1,84 @@
+*{
+    background-color: antiquewhite;
+}
+
+h1 {
+    /* border: 1px solid red; */
+    height: 100px;
+    width: 20%;
+    font-size: 50px;
+    margin-left: 540px;
+    size: 20px;
+
+}
+
+
+.main {
+    /* border: 1px solid red; */
+    margin-left: 480px;
+    height: 100px;
+    width: 30%;
+    margin-top: 10px;
+}
+
+.new-todo {
+    width: 300px;
+    height: 35px;
+    margin-top: 30px;
+}
+
+.edit-todo {
+    width: 300px;
+    height: 35px;
+    margin-top: 30px;
+
+}
+
+
+.hide {
+    display: none;
+}
+
+
+
+
+.btn {
+    width: 18%;
+    height: 40px;
+    background-color: green;
+    font-weight: bold;
+    color: white;
+    border-color: green;
+}
+
+
+
+.btn-1 {
+    width: 18%;
+    height: 40px;
+    background-color: red;
+    font-weight: bold;
+    color: white;
+    border-color: red;
+}
+
+
+.todo-list {
+    text-align: center;
+    margin-top: 50px;
+    height: 70px;
+    font-size: 25px;
+    /* border: 1px solid red; */
+
+}
+
+.my-self{
+    /* border: 1px solid red; */
+    width: 20%;
+    height: 20px;
+    margin-top: 210px;
+    margin-left: 1150px;
+    font-weight: bold;
+    color: brown;
+    position: fixed;
+}
